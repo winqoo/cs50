@@ -1,0 +1,4 @@
+0. all dimension in range 3x3 to 3x9
+1. TODO
+2. TODO
+3. TODO
