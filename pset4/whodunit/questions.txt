@@ -1,0 +1,17 @@
+1.  It is a header file that contains declarations and implementations of base functions needed in C like printf().
+2.  It makes understanding of variable size easier, like uint8_t = unsigned integer of size 8 bits.
+3.  
+BYTE =  1
+DWORD = 4
+LONG = 4
+WORD = 2
+4.  0x42 4d
+5.  bfsize - The size, in bytes, of the bitmap file. bisize - The number of bytes required by the structure.
+6.  If biHeight is negative, indicating a top-down DIB, biCompression must be either BI_RGB or BI_BITFIELDS. Top-down DIBs cannot be compressed.
+7. biBitCount
+8.fopen() might rerutn null when it either can't open file or can't create it.
+9.  Program is reading one struct at a time.
+10.  2
+11. it skeeps padding
+12. current posiiton in file
+

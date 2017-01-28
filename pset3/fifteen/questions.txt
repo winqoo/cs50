@@ -1,4 +1,4 @@
-0. all dimension in range 3x3 to 3x9
-1. TODO
-2. TODO
-3. TODO
+0. all dimension in range 3x3 to 9x9
+1. Nested arrays.
+2. greet()
+3. init(), draw(), move(), won()
